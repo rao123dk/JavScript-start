@@ -1,1 +1,1 @@
-# JavScript-start
+# JaavScript-start
