@@ -1,4 +1,4 @@
-# JaavScript-start
+# JavaScript-start
 
 https://javascript.info/intro (for deep dive)
 
