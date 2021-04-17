@@ -4,6 +4,9 @@ https://javascript.info/intro (for deep dive)
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ (MUST)
 
+https://beginnerjavascript.com
+
+
 
 
 https://www.youtube.com/watch?v=2md4HQNRqJA&list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD&index=1 (English) 
